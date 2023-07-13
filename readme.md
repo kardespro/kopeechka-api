@@ -2,7 +2,7 @@
 
 **its A Kopeechka.store API Wrapper**
 
-## Installatiom
+## Installation
 
 You can use the following command to add the library to your project: 
 
